@@ -7,7 +7,7 @@ export const config = {
 
     StakingAddress: '0xdD3901bB32B7C4E2e53DB6ec59E676bD83908832',
     StakingAbi: stakingNFT_abi,
-    nftAddress: '0x23E4081CD2b218B18be74cC903bbd6579A863495', 
+    nftAddress: '0xe01BF7f7324073eC0661EBdCEba365E1288BB532', 
     nftAbi: nft_abi,
     INFURA_ID: 'e6943dcb5b0f495eb96a1c34e0d1493e'
 }
